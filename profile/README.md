@@ -1,3 +1,3 @@
 # Moonsault Software Ltd
 
-Software development contracting.
+Software development. Tinkering.
